@@ -22,7 +22,7 @@
     "js/tests",
     "test-infra"
   ],
-  "dependencies": {
+  "peerDependencies": {
     "moment": "~2.10.2",
     "bootstrap": "~3.3.4",
     "jquery": "1.12.3",
